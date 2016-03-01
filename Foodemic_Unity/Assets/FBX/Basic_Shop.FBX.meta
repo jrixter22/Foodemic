@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: bc16f13e0c5ec6940aba4d82c457c5ed
+timeCreated: 1445451007
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box010
+    100004: Box011
+    100006: Box012
+    100008: counter
+    100010: counter001
+    100012: Door Window
+    100014: Light Post
+    100016: Line015
+    100018: Object001
+    100020: Shelves001
+    100022: Sign_Face
+    100024: Store Room
+    100026: Window Glass
+    100028: Window Glass_2
+    400000: //RootNode
+    400002: Box010
+    400004: Box011
+    400006: Box012
+    400008: counter
+    400010: counter001
+    400012: Door Window
+    400014: Light Post
+    400016: Line015
+    400018: Object001
+    400020: Shelves001
+    400022: Sign_Face
+    400024: Store Room
+    400026: Window Glass
+    400028: Window Glass_2
+    2300000: Box010
+    2300002: Box011
+    2300004: Box012
+    2300006: counter
+    2300008: counter001
+    2300010: Door Window
+    2300012: Light Post
+    2300014: Line015
+    2300016: Object001
+    2300018: Shelves001
+    2300020: Sign_Face
+    2300022: Store Room
+    2300024: Window Glass
+    2300026: Window Glass_2
+    3300000: Box010
+    3300002: Box011
+    3300004: Box012
+    3300006: counter
+    3300008: counter001
+    3300010: Door Window
+    3300012: Light Post
+    3300014: Line015
+    3300016: Object001
+    3300018: Shelves001
+    3300020: Sign_Face
+    3300022: Store Room
+    3300024: Window Glass
+    3300026: Window Glass_2
+    4300000: Shelves001
+    4300002: Light Post
+    4300004: Object001
+    4300006: Box010
+    4300008: Door Window
+    4300010: Box011
+    4300012: Window Glass
+    4300014: Box012
+    4300016: Window Glass_2
+    4300018: counter
+    4300020: Line015
+    4300022: Store Room
+    4300024: counter001
+    4300026: Sign_Face
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
