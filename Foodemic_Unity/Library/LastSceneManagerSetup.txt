@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/textured_demo.unity
+- path: Assets/Scenes/uiScenes/compactMainMenu.unity
   isLoaded: 1
   isActive: 1
