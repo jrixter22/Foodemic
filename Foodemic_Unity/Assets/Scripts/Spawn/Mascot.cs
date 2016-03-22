@@ -7,6 +7,7 @@ public class Mascot : MonoBehaviour {
 	public static int numCustomers;
 	public bool die;
 	public int targetNum;
+	public int attract;
 	public GameObject target;
 	public float speed = 0.05f;
 	
@@ -64,6 +65,37 @@ public class Mascot : MonoBehaviour {
 
 		if (distance < 1f) {
 			Decide ();
+		}
+
+		if (attract >= 10) {
+			gameObject.tag = "Mascot";
+			StartCoroutine(mascotTime());
+		}
+		
+		if (distance < 1f) {
+			Decide ();
+		}
+	}
+
+	IEnumerator mascotTime(){
+		yield return new WaitForSeconds (10);
+		gameObject.tag = "Untagged";
+		attract = 0;
+	}
+	
+	IEnumerator shrinkTime(){
+		yield return new WaitForSeconds (1);
+		transform.localScale -= new Vector3(0.05f, 0.05f, 0.05f);
+	}
+
+	//if hit by food
+	void OnCollisionEnter(Collision col) {
+		if (col.gameObject.tag == "Bullet") {
+			transform.localScale += new Vector3(0.05f, 0.05f, 0.05f);
+			StartCoroutine(shrinkTime());
+			if(attract <= 10){
+				attract += 1;
+			}
 		}
 	}
 }

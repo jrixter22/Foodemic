@@ -15,9 +15,9 @@ public class foodDestroy : MonoBehaviour {
 
 	//Destroy food on collision
 	void OnCollisionEnter(Collision col) {
-		if (col.gameObject.tag == "Bullet") {
+		/*if (col.gameObject.tag == "Bullet") {
 			Destroy (gameObject);
-		} else if (col.gameObject.tag == "Billboard") {
+		} else*/ if (col.gameObject.tag == "Billboard") {
 			Destroy (gameObject);
 		} else if (col.gameObject.tag == "Customer") {
 			Destroy (gameObject);
