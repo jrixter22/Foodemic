@@ -97,6 +97,7 @@
      <Compile Include="Assets\UI\uiScripts\LoadOnClick.cs" />
      <Compile Include="Assets\UI\uiScripts\MainMenuManagerScript.cs" />
      <Compile Include="Assets\UI\uiScripts\MainMenuScript.cs" />
+     <Compile Include="Assets\UI\uiScripts\SlideManager.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
