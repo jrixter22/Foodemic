@@ -7,8 +7,6 @@ Project("{98A56987-21D8-99BF-F53E-A576A6B27DD7}") = "Foodemic_Unity", "Assembly-
 EndProject
 Project("{98A56987-21D8-99BF-F53E-A576A6B27DD7}") = "Foodemic_Unity", "Assembly-CSharp-Editor.csproj", "{9036FB1F-8A58-7AE7-1D5B-62108CB41FD0}"
 EndProject
-Project("{98A56987-21D8-99BF-F53E-A576A6B27DD7}") = "Foodemic_Unity", "Assembly-UnityScript.unityproj", "{5F5CA676-1C5B-5289-83E2-0C3C30FE5FB8}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,10 +25,6 @@ Global
 		{9036FB1F-8A58-7AE7-1D5B-62108CB41FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9036FB1F-8A58-7AE7-1D5B-62108CB41FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9036FB1F-8A58-7AE7-1D5B-62108CB41FD0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5F5CA676-1C5B-5289-83E2-0C3C30FE5FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F5CA676-1C5B-5289-83E2-0C3C30FE5FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5F5CA676-1C5B-5289-83E2-0C3C30FE5FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5F5CA676-1C5B-5289-83E2-0C3C30FE5FB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -54,5 +48,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
