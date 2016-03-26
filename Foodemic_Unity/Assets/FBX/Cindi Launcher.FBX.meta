@@ -1,0 +1,94 @@
+fileFormatVersion: 2
+guid: f7412880490b9204287299e912e07468
+timeCreated: 1459016519
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Air Pipes
+    100002: Airsoft Barrel
+    100004: Cindi Airsoft
+    100006: //RootNode
+    100008: Ice Cream Tubes
+    400000: Air Pipes
+    400002: Airsoft Barrel
+    400004: Cindi Airsoft
+    400006: //RootNode
+    400008: Ice Cream Tubes
+    2300000: Air Pipes
+    2300002: Airsoft Barrel
+    2300004: Cindi Airsoft
+    2300006: //RootNode
+    2300008: Ice Cream Tubes
+    3300000: Air Pipes
+    3300002: Airsoft Barrel
+    3300004: Cindi Airsoft
+    3300006: //RootNode
+    3300008: Ice Cream Tubes
+    4300000: Cindi Launcher Stand
+    4300002: Cindi Airsoft
+    4300004: Ice Cream Tubes
+    4300006: Airsoft Barrel
+    4300008: Air Pipes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
